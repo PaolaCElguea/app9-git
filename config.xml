@@ -7,9 +7,9 @@
  
  <name>app9 Geolocalizacion</name>
  
- <descripcion>
+ <description>
  Muestra la ubicacion del dispositivo de acuerdo al GPS
- </descripcion>
+ </description>
  
  <author href="http://build.phonegap.com" email="elguea61@gmail.com">
  Paola Constanza Elguea Perez
